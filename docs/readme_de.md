@@ -19,7 +19,9 @@ Dieses Modul ermöglicht es, aus einfachen Wortlisten mit wenigen wörtern, viel
 
 ## 1. Einleitung
 Dank des Genialen EchoRemote Moduls ist es ja einfach bei bestimmten Ereignisse einen Text ansagen zu lassen, der haken ... immer der gleiche Text wird 1. Irgendwann überhört und 2. wird es schnell eintönig.
+
 Daher habe ich mir wieder einmal gedacht, ein Modul zu basteln das verschieden Texte ausgibt. Die Logik dahinter ist ziemlich einfach, es wird je ein zufälliger Begriff aus den Listen gewählt und zu einem Satz zusammengefügt.
+
 Bei 4 Wortlisten mit je 4 Satzteilen ergeben sich somit 4x4x4x4 = 256 verschieden Kombinationen und das ergibt,je nach Wortwahl, schon mal ziemlich lustig Sätze.
 
 ## 2. Funktionsumfang
