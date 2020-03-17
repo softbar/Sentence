@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"type": "ExpansionPanel",
+			"caption": "General module configuration",
+			"name": "ModuleConfig",
+			"items": [
+				{
+					"type": "Select",
+					"name": "MaxSequences",
+					"caption": "Max Sequences",
+					"options":[
+						{"label":"4","value":4},
+						{"label":"8","value":8},
+						{"label":"12","value":12}
+					]
+				},
+				{
+					"type": "NumberSpinner",
+					"name": "ListRowCount",
+					"caption": "Row count (0=auto)",
+					"maxvalue": 25,
+					"minvalue": -0.1
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"translations": {
+		"de": {
+			"Sentence begin with":"Satz beginnt mit",
+			"next Sentence fragment":"nächstes Satzfragment",
+			"Output to Echo Remote device":"An Echo Remote Gerät ausgeben",
+			"Not selected":"Nicht gewählt",
+			"Text Output":"Text Ausgabe",
+			"Speak":"Sprechen",
+			"With the current settings, %s different text variations are possible":"Mit den aktuellen Einstellungen, sind %s unterschiedliche Textvariationen möglich",
+			"General module configuration":"Allgemeine Modulkonfiguration",
+			"Max Sequences":"Maximale Fragmente",
+			"Row count (0=auto)":"Zeilenanzahl (0 = automatisch)"
+			
+		
+		}
+	}
+}
